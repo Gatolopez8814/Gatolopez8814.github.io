@@ -1,4 +1,4 @@
 #Mi GitHub page
->Allan Cascante
->Martin Flores
+> Jorge lopez
+> Martin Flores
 esta es mi gitHub
